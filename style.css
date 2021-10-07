@@ -21,3 +21,8 @@ font-weight: bold;
 .info{
     margin-left: 10%;
 }
+
+.backtext{
+    background-color: #2596be    ;
+    color: white    ;
+}
