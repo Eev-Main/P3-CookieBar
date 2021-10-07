@@ -1,0 +1,23 @@
+.cookies{
+background-color: black;
+color: white;
+position: fixed;
+left: 0;
+right: 0;
+bottom: 0;
+font-weight: bold;
+}
+
+.boton{
+    background-color: yellow;
+    margin-left: 20%;
+}
+
+.cookiestext{
+    font-size: larger;
+    margin-left: 10%;
+}
+
+.info{
+    margin-left: 10%;
+}
